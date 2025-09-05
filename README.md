@@ -1,13 +1,13 @@
 # SCT_DS_3
 Built a Decision Tree Classifier using the Bank Marketing dataset to predict whether a customer will purchase a product/service based on demographic and behavioral data. Implemented data preprocessing, model training, evaluation, and visualization to analyze decision-making patterns.
 # Dataset Overview
-The dataset contains information about direct marketing campaigns conducted by a Portuguese banking institution.
+- The dataset contains information about direct marketing campaigns conducted by a Portuguese banking institution.
 # Features include:
-Age, Job, Marital status, Education
-Default status, Housing loan, Personal loan
-Contact type, Last contact duration, Month, Day of week
-Campaign information (#contacts, previous outcome)
-Socioeconomic indicators
+- Age, Job, Marital status, Education
+- Default status, Housing loan, Personal loan
+- Contact type, Last contact duration, Month, Day of week
+- Campaign information (#contacts, previous outcome)
+- Socioeconomic indicators
 # Target Variable:
 - y → whether the client subscribed to a term deposit (yes/no)
 # Project Workflow
